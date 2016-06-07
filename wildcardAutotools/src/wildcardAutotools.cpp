@@ -13,7 +13,12 @@
 
 using namespace std;
 bool strmatch(string str1, string str2);
-
+/*! This is a function comparing two strings one containing wildcards '*' and '?'
+ * String 1 is the input string while string 2 is the reference string.
+ * Certain exceptions can be added to the program though.
+ * Output 1 implies matching strings whereas 0 implies mismatch.
+ *
+ */
 int main(void) {
 	string stra("Ta*i");
 		string strb("Tanvi");
