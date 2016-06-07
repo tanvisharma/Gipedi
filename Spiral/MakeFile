@@ -1,0 +1,3 @@
+all:
+	gcc -c spiral.c
+	gcc spiral.o -o spiral

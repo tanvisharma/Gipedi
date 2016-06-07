@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.11">
+  <compound refid="spiral_8c" kind="file"><name>spiral.c</name>
+    <member refid="spiral_8c_1ab2a50ac46730a204f3813c5c12b43289" kind="function"><name>revspiral</name></member>
+    <member refid="spiral_8c_1ae66f6b31b5ad750f1fe042a706a4e3d4" kind="function"><name>main</name></member>
+  </compound>
+</doxygenindex>
